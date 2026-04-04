@@ -1,5 +1,3 @@
-*.env
-
 # Vector DB 폴더 무시
 chroma_db/
 
