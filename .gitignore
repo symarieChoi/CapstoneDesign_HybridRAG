@@ -1,5 +1,6 @@
 # Vector DB 폴더 무시
 chroma_db/
+*.sqlite3
 
 # 파이썬 가상환경 및 캐시 파일 무시 (참고용)
 __pycache__/
